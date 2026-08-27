@@ -3,6 +3,6 @@ import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/antigua-reading-lab/',
+  base: '/LouisHaddad-code-antigua-reading-lab/',
   plugins: [react()],
 })
